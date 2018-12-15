@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\bin\Debug\dz_7.exe.config
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\bin\Debug\dz_7.exe
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\bin\Debug\dz_7.pdb
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.MainForm.resources
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.Properties.Resources.resources
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.exe
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.pdb
+C:\Users\Дмитрий\Source\Repos\dz_7\dz_7\obj\Debug\dz_7.StartMenu.resources
